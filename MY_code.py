@@ -5,7 +5,8 @@ data = [
     ["Name", "Age", "City"],
     ["Harsh", 20, "Nagpur"],
     ["Aman", 21, "Pune"],
-    ["Riya", 19, "Mumbai"]
+    ["Riya", 19, "Mumbai"],
+    ["Harsh", 20, "etawah"]
 ]
 
 # Create a CSV file
